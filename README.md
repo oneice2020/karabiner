@@ -39,7 +39,7 @@ karabiner://karabiner/assets/complex_modifications/import?url=https://raw.github
 1. 只保留 `ABC` 和 `中文` 两种输入法
 2. 关掉中文输入法的 `中英` 切换快捷键
 
-## 为什么
+## 为什么？
 
 由于，我们码字的时候经常不知道当前是处于哪个输入法，中文输入法还有 `中` \ `英` 两种状态
 
