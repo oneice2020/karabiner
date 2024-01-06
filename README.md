@@ -1,6 +1,6 @@
-设置输入法切换快捷键为 Control + Shift + F12：
-<img width="751" alt="image" src="https://github.com/oneice2020/karabiner/assets/46884636/4beb7593-728b-44a5-997e-5a4fdea3d018">
+# 设置输入法切换快捷键为 Control + Shift + F12
 
+<img width="751" alt="image" src="https://github.com/oneice2020/karabiner/assets/46884636/4beb7593-728b-44a5-997e-5a4fdea3d018">
 
 # Karabiner 单键切换输入法配置
 
