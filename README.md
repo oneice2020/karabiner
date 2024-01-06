@@ -21,7 +21,7 @@
 复制到浏览器打开
 
 ```
-karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/chavyleung/karabiner/main/karabiner.json
+karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/oneice2020/karabiner/main/karabiner.json
 ```
 
 ### 第二种：本地安装
