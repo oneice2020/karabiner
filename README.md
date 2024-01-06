@@ -1,6 +1,8 @@
 # 设置输入法切换快捷键为 ⌃ + Shift + F12
-为避免和 IntelliJ IDEA Ultimate 的 ⌃ + Space 快捷键冲突，修改输入法切换快捷键为 ⌃ + Shift + F12：
-<img width="751" alt="image" src="https://github.com/oneice2020/karabiner/assets/46884636/4beb7593-728b-44a5-997e-5a4fdea3d018">
+<details>
+  <summary>为避免和 IntelliJ IDEA Ultimate 的 ⌃ + Space 快捷键冲突，修改输入法切换快捷键为 ⌃ + Shift + F12：</summary>
+  <img width="751" alt="image" src="https://github.com/oneice2020/karabiner/assets/46884636/4beb7593-728b-44a5-997e-5a4fdea3d018">
+</details>
 
 # Karabiner 单键切换输入法配置
 
