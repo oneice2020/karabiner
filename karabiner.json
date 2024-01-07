@@ -185,7 +185,7 @@
             ]
         },
         {
-            "description": "（C1）短按 Caps 切换 EN",
+            "description": "（C1）短按 Caps 切换 EN，并替换 Caps 为组合键: ⌃ + ⌘ + ⌥ + ⇧",
             "manipulators": [
                 {
                     "type": "basic",
@@ -218,7 +218,7 @@
             ]
         },
         {
-            "description": "（C2）短按 Caps 轮换",
+            "description": "（C2）短按 Caps 轮换，并替换 Caps 为组合键: ⌃ + ⌘ + ⌥ + ⇧",
             "manipulators": [
                 {
                     "from": {
@@ -246,32 +246,6 @@
                     "to_if_held_down": [
                         {
                             "key_code": "caps_lock"
-                        }
-                    ],
-                    "type": "basic"
-                }
-            ]
-        },
-        {
-            "manipulators": [
-                {
-                    "description": "Change caps_lock to command+control+option+shift.",
-                    "from": {
-                        "key_code": "caps_lock",
-                        "modifiers": {
-                            "optional": [
-                                "any"
-                            ]
-                        }
-                    },
-                    "to": [
-                        {
-                            "key_code": "left_shift",
-                            "modifiers": [
-                                "left_command",
-                                "left_control",
-                                "left_option"
-                            ]
                         }
                     ],
                     "type": "basic"
