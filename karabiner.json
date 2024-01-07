@@ -2,7 +2,7 @@
     "title": "单键切换中英输入法: ⌘ ⌥ ⇧ Caps ",
     "rules": [
         {
-            "description": "(A1) 短按 左 Command (⌘) 轮换 ZH - 【与 A2 冲突，请二选一】",
+            "description": "(A1) 短按 左 Command (⌘) 轮换 ZH",
             "manipulators": [
                 {
                     "type": "basic",
@@ -58,7 +58,7 @@
             ]
         },
         {
-            "description": "(A2)短按 左 Command (⌘) 切换 ZH (精准切换, 但可能会出现切换失败情况) - 【与 A1 冲突，请二选一】",
+            "description": "(A2)短按 左 Command (⌘) 切换 ZH (精准切换, 但可能会出现切换失败情况)",
             "manipulators": [
                 {
                     "type": "basic",
@@ -132,7 +132,7 @@
             ]
         },
         {
-            "description": "(B1) 短按 左 Shift (⇧) 轮换 - 【与 B2 冲突，请二选一】",
+            "description": "(B1) 短按 左 Shift (⇧) 轮换",
             "manipulators": [
                 {
                     "from": {
@@ -162,7 +162,7 @@
             ]
         },
         {
-            "description": "(B2) 短按 左 Shift (⇧) 切换 EN - 【与 B1 冲突，请二选一】",
+            "description": "(B2) 短按 左 Shift (⇧) 切换 EN",
             "manipulators": [
                 {
                     "type": "basic",
@@ -185,7 +185,7 @@
             ]
         },
         {
-            "description": "短按 Caps 切换 EN",
+            "description": "（C1）短按 Caps 切换 EN",
             "manipulators": [
                 {
                     "type": "basic",
@@ -218,7 +218,7 @@
             ]
         },
         {
-            "description": "短按 Caps 轮换",
+            "description": "（C2）短按 Caps 轮换",
             "manipulators": [
                 {
                     "from": {
